@@ -6,8 +6,8 @@ This folder contains the code for finding Use-After-Free (UAF) vulnerabilities i
 * [juliet-test-suite-c](./juliet-test-suite-c/): Contains the CWE416 test cases from the Juliet Test Suite, augmented with a build script and a script to measure the accuracy of the UAF analysis.
 * [cves](./cves/): Contains real-world binaries with CVEs and results of the real-world analysis runs.
 * [docs](./docs/) Contains thesis and slides:
-  * [Bachelor Thesis (PDF)](docs/thesis.pdf)
-  * [Presentation Slides (PDF)](docs/talk.pdf)
+  * [Bachelor Thesis (PDF)](docs/Bachelor_Thesis_Lennart_Henke.pdf)
+  * [Presentation Slides (PDF)](docs/Presentation_Slides_Lennart_Henke.pdf)
 
 
 ## Setup
